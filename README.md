@@ -1,4 +1,5 @@
-# Prompt Engineering for LLM Roleplay  
+# PrompRP  
+**Engineering for LLM Roleplay**
 
 ## Overview
 This project implements prompt engineering techniques to create an AI with various personality one of them is using a mental health sentiment dataset. It demonstrates how different emotional patterns can be incorporated into large language model responses through careful prompt design.  
